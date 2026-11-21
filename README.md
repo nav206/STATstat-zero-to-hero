@@ -4,7 +4,7 @@ This is my experiment on [re]learning statistics from beginning to advanced conc
 
 I want to create an interactive version of the book. We will see how that goes. 
 
-Oh, also
+Oh, also this book will mostly focus on Frequentist statistics. Bayesian on the other hand, is a whole another book, an exercise, and something I should working. 
 
 book/
 
